@@ -1,0 +1,4197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom serialNumber="urn:uuid:4707df39-b7fe-48a0-bbd5-2d7567a9f3c3" version="1" xmlns="http://cyclonedx.org/schema/bom/1.4">
+  <metadata>
+    <timestamp>2022-10-20T09:51:47Z</timestamp>
+  </metadata>
+  <components>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_12_intel.macosx_10_12_x86_64.macosx_10_13_intel.macosx_10_13_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_12_intel.macosx_10_12_x86_64.macosx_10_13_intel.macosx_10_13_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">02131bcd7cf1b1b8b7e6</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">021851f10af36a171739</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/async-timeout@3.0.1?extension=tar.gz">
+      <name>async-timeout</name>
+      <version>3.0.1</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/async-timeout@3.0.1?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">0498faefffb67a09a12a</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-win_amd64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">05d4bebda10f84694481</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-win_amd64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">0bbf7dc728394c47e375</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp35-cp35m-win_amd64">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">0c45d5264eaa4d578a23</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-win_amd64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">0e9a53816a6a33da93e4</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp-session@2.7.0?extension=whl&amp;qualifier=py3-none-any">
+      <name>aiohttp-session</name>
+      <version>2.7.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp-session@2.7.0?extension=whl&amp;qualifier=py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">0fbf0daf0e41b9e70e34</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-win_amd64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">11fd93ef8318d77b105b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp36-cp36m-win32">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp36-cp36m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">12d6078857529cb8a7a8</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">151ea277cbba0f217d3a</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_i686">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">1576669d6c8a02f353a5</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-win32">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">16f9c96329a11bb0d063</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">17ad72c7ce71a3314445</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_6_intel">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">18f7dcf7fc72498c445b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-win_amd64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">19f3d571d0ac81491665</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win_amd64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">1a40fa8d4b4d2c6d1759</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp37-cp37m-win_amd64">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">1c009d069faf28c362f7</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">1c5dc211da841ed5b4c7</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-win32">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">1f1bc19045736baa5f92</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aioredis@1.2.0?extension=tar.gz">
+      <name>aioredis</name>
+      <version>1.2.0</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aioredis@1.2.0?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">1f63449a3d18fe23746d</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">20bdc2512d820795eebe</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/attrs@18.2.0?extension=whl&amp;qualifier=py2.py3-none-any">
+      <name>attrs</name>
+      <version>18.2.0</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/attrs@18.2.0?extension=whl&amp;qualifier=py2.py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">213cd958f00be22932ac</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp27-cp27m-win32">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp27-cp27m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">21cb7908235322651134</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp37-cp37m-win_amd64">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">2223882aff07f55b904b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=tar.gz">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">22f95fe2f5ef29ab1711</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">236b0b3fe48af35d583b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">255908a92366321a436b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-win32">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">25815dab59b77be7fdb1</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-win_amd64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">259834949e2795263282</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp-session@2.7.0?extension=tar.gz">
+      <name>aiohttp-session</name>
+      <version>2.7.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp-session@2.7.0?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">28787efdbef5a906fbe7</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_x86_64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">29f2c8d71bb008e4e1a5</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">2c88bb3e053849fdb5d9</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp34-cp34m-win32">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp34-cp34m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">2f8fcd46036d25ff879f</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-win32">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">313e4e98805952094c92</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_13_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_13_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">317cbcd44be7cdeba685</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-win32">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">31ab2dc254e402ed3f01</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">323df809c761ad0fa8d2</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-win32">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">32f57361b2889fbd6257</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-win_amd64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">32f7d4e0d4d13c80a05f</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/jinja2@2.10?extension=tar.gz">
+      <name>jinja2</name>
+      <version>2.10</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/jinja2@2.10?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">34b69e5caab12ee37b9d</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-win32">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">35faf630e9eb462e65d8</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_12_intel.macosx_10_12_x86_64.macosx_10_13_intel.macosx_10_13_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_12_intel.macosx_10_12_x86_64.macosx_10_13_intel.macosx_10_13_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">3b330a2e74266b1c032c</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">3b65ae82db2165c196f4</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=tar.gz">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">3bdd9cc5c3d7d6487eed</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-win32">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">3c6b08f7e8c461ece2a9</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-win_amd64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">3d5ac741c647a861ffab</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">3eab7d4512b91999afba</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp36-cp36m-win_amd64">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">3f8235ddca5b7859d465</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp36-cp36m-win32">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp36-cp36m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">415b6f9714e5b5c1098c</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_10_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_10_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">424221ec420177d8f585</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/idna@2.8?extension=whl&amp;qualifier=py2.py3-none-any">
+      <name>idna</name>
+      <version>2.8</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Generic-Liberal-Clause</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/idna@2.8?extension=whl&amp;qualifier=py2.py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">428950b762f04cb88c21</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-win32">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">43cc12f3cb060c157005</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_i686">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">4483ce861d99cc3f1980</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=tar.gz">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">45e359fb2999c9608fea</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/chardet@3.0.4?extension=tar.gz">
+      <name>chardet</name>
+      <version>3.0.4</version>
+      <licenses>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/chardet@3.0.4?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">4766fb07e700945a7085</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">49631986dddad8a9f69a</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_6_intel">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">49dbf74faf789ea8757e</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_6_intel">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">4b2ebb41cfba68ec403a</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">4c2634b4699d5f24b5c7</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=tar.gz">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">4e352da748d1ab483d61</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-win32">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">4f68a46686b5d3dbce8e</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">50ac365c7ff537032dff</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/attrs@18.2.0?extension=tar.gz">
+      <name>attrs</name>
+      <version>18.2.0</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/attrs@18.2.0?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">51a52e1afdd9e8c174ac</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">51ec82cf9adf13d1f011</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-win_amd64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">5205195c56846673d108</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_11_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_11_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">52d7a79316be7b0b49e2</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win_amd64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">54007ca4c2e83e1e8af8</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">57675f0477e11ddbe06d</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">5a77f8a3e3eccfef3b28</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">5aee7d14665bdc13fbb3</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_x86_64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">5c6c23bccad18034c771</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-win32">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">5c74bf17e57e412d18c3</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_6_intel.macosx_10_6_x86_64.macosx_10_7_intel.macosx_10_7_x86_64.macosx_10_8_intel.macosx_10_8_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_6_intel.macosx_10_6_x86_64.macosx_10_7_intel.macosx_10_7_x86_64.macosx_10_8_intel.macosx_10_8_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">5d7c17489abd55bce02f</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_6_intel">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">5ecadf6dc67e37ac0328</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-win_amd64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">610f464de7580b582dd4</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_10_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_10_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">6224619d096aa6c1c30b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_12_intel.macosx_10_12_x86_64.macosx_10_13_intel.macosx_10_13_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_12_intel.macosx_10_12_x86_64.macosx_10_13_intel.macosx_10_13_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">6714e96d0260ec677efa</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-win32">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">6d4d391f2860e8b7e37e</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-win_amd64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">6e138a1487755aa43240</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_12_intel.macosx_10_12_x86_64.macosx_10_13_intel.macosx_10_13_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_12_intel.macosx_10_12_x86_64.macosx_10_13_intel.macosx_10_13_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">6f4521539e495084e983</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp35-cp35m-win32">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp35-cp35m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">70531c268db04a367d0c</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_i686">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">72b368354ae018b0e003</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-win_amd64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">74c55e90bea25814e6b1</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">753f19c954fe3318833e</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp-jinja2@1.1.0?extension=tar.gz">
+      <name>aiohttp-jinja2</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp-jinja2@1.1.0?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">77264c3336a00155f3b2</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">77962acda4892e652025</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=tar.gz">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">7851ce40eb24647803f1</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-win_amd64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">799523a2033e0d3fb21a</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">7a694ee5b007b166203a</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">7b0426ef106fff62dbd1</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp37-cp37m-win32">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp37-cp37m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">7b1455a05f49d3ea5b94</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win32">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">7b15a04bada59e5ec1d2</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp33-cp33m-win32">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp33-cp33m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">7b4d60795c032bc73705</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiopg@0.15.0?extension=tar.gz">
+      <name>aiopg</name>
+      <version>0.15.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiopg@0.15.0?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">7bef4561b4fcd36a9e8c</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-win32">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">7dcf10d7f18f1f0f2cf9</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-win32">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">800f2154fac8c7eeb325</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_10_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_10_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">80460cb00ccc9e856f0e</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp34-cp34m-win_amd64">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp34-cp34m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">811e61810c271a80e150</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/trafaret-config@2.0.2?extension=tar.gz">
+      <name>trafaret-config</name>
+      <version>2.0.2</version>
+      <licenses>
+        <license>
+          <name>Apache</name>
+        </license>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/trafaret-config@2.0.2?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">825ccc306df6d7318c3f</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">826c104901544b9b702e</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-win_amd64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">8400cbfdcdae1fec4410</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_i686">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">85a37eb62892de53ee54</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-win_amd64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">85f30b39bb60ccda2c2e</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_11_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_11_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">8aa8f3e9eb7b065a4296</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiopg@0.15.0?extension=whl&amp;qualifier=py3-none-any">
+      <name>aiopg</name>
+      <version>0.15.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiopg@0.15.0?extension=whl&amp;qualifier=py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">8c7619fa3df6ffb296a3</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">8d2185898e2fd130eb20</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">90087774175b093b661c</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-win32">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">94e228e00a008a3b700e</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_6_intel.macosx_10_6_x86_64.macosx_10_7_intel.macosx_10_7_x86_64.macosx_10_8_intel.macosx_10_8_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_6_intel.macosx_10_6_x86_64.macosx_10_7_intel.macosx_10_7_x86_64.macosx_10_8_intel.macosx_10_8_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">95a33dc7aa84d5eda4ff</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_6_intel.macosx_10_6_x86_64.macosx_10_7_intel.macosx_10_7_x86_64.macosx_10_8_intel.macosx_10_8_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_6_intel.macosx_10_6_x86_64.macosx_10_7_intel.macosx_10_7_x86_64.macosx_10_8_intel.macosx_10_8_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">963ea2561809ca9092fc</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/chardet@3.0.4?extension=whl&amp;qualifier=py2.py3-none-any">
+      <name>chardet</name>
+      <version>3.0.4</version>
+      <licenses>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/chardet@3.0.4?extension=whl&amp;qualifier=py2.py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">96faab7de7e9a71b37f2</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aioredis@1.2.0?extension=whl&amp;qualifier=py3-none-any">
+      <name>aioredis</name>
+      <version>1.2.0</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aioredis@1.2.0?extension=whl&amp;qualifier=py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">9a000d00edbdb3d49e12</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">9b796134a7edbd97508c</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win32">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">9c290d3d339ff23e3639</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_x86_64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">9c4a73d5c1e2a2fb91ad</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_x86_64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">9c9b86e3c37d31a4a89d</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_i686">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">9d3e20f976ec5699ba2f</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">9eaafe4230acce8e040b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=tar.gz">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">9f12a4c3f2a2c3be5d21</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_11_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_11_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">9f3e12d7c94735452b26</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-win32">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">a2d08f63567e0a8dfb59</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_6_intel">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">a3c6805300f9f4f4c5a6</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/trafaret@1.2.0?extension=whl&amp;qualifier=py3-none-any">
+      <name>trafaret</name>
+      <version>1.2.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/trafaret@1.2.0?extension=whl&amp;qualifier=py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">a44595bb180c1ff26fd6</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_6_intel">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">a461c298e30723c9540b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-win32">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">a6ba8795769bb42e4cd7</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-win32">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">a6c57e3c7fe78c1cb5bc</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_13_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_13_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">aa093eea389074f82da3</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp-jinja2@1.1.0?extension=whl&amp;qualifier=py3-none-any">
+      <name>aiohttp-jinja2</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp-jinja2@1.1.0?extension=whl&amp;qualifier=py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">ae6db64e84e466741621</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">ae762a12af36fb1bbe79</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp27-cp27m-win_amd64">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp27-cp27m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">ae829a1d2917d7f49699</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">b0d80787dc77f564dbd9</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">b0d8e83d01280627d550</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-win32">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp37-cp37m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">b1ef0a5f18f098a41d13</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:a-name/materialize-css@0.100.1">
+      <name>materialize-css</name>
+      <version>0.100.1</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:a-name/materialize-css@0.100.1</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">b3c3020648e6d97377cc</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">b524baa026275aab0311</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_x86_64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">b893f69cbbfc7d0579e8</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">b93634e2ec253ad9e42d</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-win_amd64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">b99f9c2cf819fdc31af2</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">bc822c0cb3298baabe8a</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_13_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_13_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">be4f991362643a68d7c4</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">bfa6f010f33801d1dfd3</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:a-name/jquery@3.2.1">
+      <name>jquery</name>
+      <version>3.2.1</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:a-name/jquery@3.2.1</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c06fdb14bbc40c914d6b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c0b8e40254a26ee3f28b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c0ee073d10d7a9ffda83</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/idna@2.8?extension=tar.gz">
+      <name>idna</name>
+      <version>2.8</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Generic-Liberal-Clause</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/idna@2.8?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c1e59def26dac74a2ec5</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_6_intel">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c2dab85f08269397e19a</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_x86_64">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c309b0fd95b4bf06878e</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-win_amd64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c4cd8c840738e26906a7</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_i686">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c53406bea857925e4ec7</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp37-cp37m-win32">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp37-cp37m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c8d3ff800673113c7225</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">c9a0eb1101d84d798a5f</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp36-cp36m-win_amd64">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">cacf7a81f278628917aa</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp35-cp35m-win32">
+      <name>pyyaml</name>
+      <version>3.13</version>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp35-cp35m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">cf5c6f57d115411af0b2</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_i686">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27mu-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">d0aea1402619a422e1b5</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">d43c4e486fadcdd2e475</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_i686">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp34-cp34m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">d52fd8b40bb371c4bcb4</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-macosx_10_6_intel">
+      <name>hiredis</name>
+      <version>0.3.1</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/hiredis@0.3.1?extension=whl&amp;qualifier=cp27-cp27m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">d699145c35b1aef750aa</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">d964b4e022ebf8411cad</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_i686">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">e0a4ade0493cc669d6f1</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-macosx_10_6_intel">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">e247756872460ece6a47</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win_amd64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">e2d0f7082252fab2bf51</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_i686">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">e373899ce4901bc9f72f</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win32">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win32</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">e57bee09aa66f385d4e9</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/trafaret@1.2.0?extension=tar.gz">
+      <name>trafaret</name>
+      <version>1.2.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/trafaret@1.2.0?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">e752bc4387e93a060046</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">e989cec84f854c590488</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">e9e88b8c442a15c7108a</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_6_intel">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_6_intel</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">eb3e78cf203e2cd0eaa4</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-win_amd64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">ebfc964f16cdd65f5021</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=tar.gz">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=tar.gz</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">ec0079f4d4fbdc92b6fd</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/jinja2@2.10?extension=whl&amp;qualifier=py2.py3-none-any">
+      <name>jinja2</name>
+      <version>2.10</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/jinja2@2.10?extension=whl&amp;qualifier=py2.py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">f14bb3e5021b2b0605dc</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.macosx_10_11_intel.macosx_10_11_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">f2b12c9d4512b92e914b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">f32f8acad8527541c75d</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">f3b4c608d5bf68c8a7e3</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp33-cp33m-win_amd64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp33-cp33m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">f5e08e67659daa0cf472</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-win_amd64">
+      <name>markupsafe</name>
+      <version>1.1.0</version>
+      <licenses>
+        <license>
+          <name>BSD</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/markupsafe@1.1.0?extension=whl&amp;qualifier=cp34-cp34m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">f66a7cf4f0cbc7064d23</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/async-timeout@3.0.1?extension=whl&amp;qualifier=py3-none-any">
+      <name>async-timeout</name>
+      <version>3.0.1</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/async-timeout@3.0.1?extension=whl&amp;qualifier=py3-none-any</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">f8a6416ebde44deaef58</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp35-cp35m-win_amd64">
+      <name>yarl</name>
+      <version>1.3.0</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/yarl@1.3.0?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">f8fab2a523d6ca2a76ff</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64">
+      <name>aiohttp</name>
+      <version>3.5.3</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">fbe0de5e0f2bf2f9bfad</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">fd0d1c3ae82412234b7d</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_6_intel.macosx_10_6_x86_64.macosx_10_7_intel.macosx_10_7_x86_64.macosx_10_8_intel.macosx_10_8_x86_64">
+      <name>multidict</name>
+      <version>4.5.2</version>
+      <licenses>
+        <license>
+          <id>Apache-2.0</id>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/multidict@4.5.2?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_6_intel.macosx_10_6_x86_64.macosx_10_7_intel.macosx_10_7_x86_64.macosx_10_8_intel.macosx_10_8_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">fdb277eb2285f9a82b3b</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+    <component type="library" bom-ref="pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_x86_64">
+      <name>psycopg2</name>
+      <version>2.7.6.1</version>
+      <licenses>
+        <license>
+          <name>ZPL</name>
+        </license>
+        <license>
+          <name>Non-Standard</name>
+        </license>
+        <license>
+          <name>LGPL</name>
+        </license>
+        <license>
+          <name>Not Supported</name>
+        </license>
+      </licenses>
+      <purl>pkg:pypi/psycopg2@2.7.6.1?extension=whl&amp;qualifier=cp27-cp27m-manylinux1_x86_64</purl>
+      <modified>false</modified>
+      <properties>
+        <property name="Sonatype truncated SHA1">ff93693fb2e34c95c033</property>
+        <property name="Match State">exact</property>
+        <property name="Identification Source">Sonatype</property>
+      </properties>
+    </component>
+  </components>
+  <externalReferences><reference type="bom"><url>http://127.0.0.1:8070/ui/links/application/dvpwa1/report/4707df39b7fe48a0bbd52d7567a9f3c3</url><comment>IQ Report</comment></reference></externalReferences>
+  <vulnerabilities>
+    <vulnerability>
+      <id>sonatype-2021-3691</id>
+      <source>
+        <name>SONATYPE</name>
+        <url>http://127.0.0.1:8070/ui/links/vln/sonatype-2021-3691</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>SONATYPE</name>
+          </source>
+          <score>7.5</score>
+          <severity>critical</severity>
+          <method>other</method>
+          <vector>CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>113</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_13_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_10_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_11_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_10_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=tar.gz</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_10_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_11_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_11_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_13_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_13_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2021-21330</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21330</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>6.1</score>
+          <severity>high</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>601</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_13_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_10_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_11_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_10_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=tar.gz</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_10_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_11_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_11_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_13_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_13_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2017-18342</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-18342</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>9.8</score>
+          <severity>critical</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>502</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp27-cp27m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/pyyaml@3.13?extension=tar.gz</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/pyyaml@3.13?extension=whl&amp;qualifier=cp27-cp27m-win_amd64</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2019-11002</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11002</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>6.1</score>
+          <severity>high</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>79</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:a-name/materialize-css@0.100.1</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2019-11003</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11003</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>6.1</score>
+          <severity>high</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>79</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:a-name/materialize-css@0.100.1</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2019-11358</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11358</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>6.1</score>
+          <severity>high</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>1321</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:a-name/jquery@3.2.1</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2019-11004</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11004</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>6.1</score>
+          <severity>high</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>79</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:a-name/materialize-css@0.100.1</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2022-33124</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-33124</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>5.5</score>
+          <severity>high</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>703</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win_amd64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_13_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_10_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_11_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win_amd64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_10_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=tar.gz</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-macosx_10_10_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_11_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_11_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-macosx_10_13_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-manylinux1_i686</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_i686</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-macosx_10_13_x86_64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-win_amd64</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp35-cp35m-win32</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp37-cp37m-manylinux1_i686</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/aiohttp@3.5.3?extension=whl&amp;qualifier=cp36-cp36m-manylinux1_x86_64</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2020-28493</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-28493</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>5.3</score>
+          <severity>high</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>400</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:pypi/jinja2@2.10?extension=tar.gz</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/jinja2@2.10?extension=whl&amp;qualifier=py2.py3-none-any</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2020-11023</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-11023</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>6.1</score>
+          <severity>high</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>79</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:a-name/jquery@3.2.1</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2019-10906</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10906</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>8.6</score>
+          <severity>critical</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>284</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:pypi/jinja2@2.10?extension=tar.gz</ref>
+        </target>
+        <target>
+          <ref>pkg:pypi/jinja2@2.10?extension=whl&amp;qualifier=py2.py3-none-any</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>CVE-2020-7105</id>
+      <source>
+        <name>NVD</name>
+        <url>http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7105</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>NVD</name>
+          </source>
+          <score>7.5</score>
+          <severity>critical</severity>
+          <method>CVSSv3</method>
+          <vector>CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>476</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:pypi/hiredis@0.3.1?extension=tar.gz</ref>
+        </target>
+      </affects>
+    </vulnerability>
+    <vulnerability>
+      <id>sonatype-2020-0187</id>
+      <source>
+        <name>SONATYPE</name>
+        <url>http://127.0.0.1:8070/ui/links/vln/sonatype-2020-0187</url>
+      </source>
+      <ratings>
+        <rating>
+          <source>
+            <name>SONATYPE</name>
+          </source>
+          <score>6.1</score>
+          <severity>high</severity>
+          <method>other</method>
+          <vector>CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N</vector>
+        </rating>
+      </ratings>
+      <cwes>
+        <cwe>79</cwe>
+      </cwes>
+      <affects>
+        <target>
+          <ref>pkg:a-name/jquery@3.2.1</ref>
+        </target>
+      </affects>
+    </vulnerability>
+  </vulnerabilities>
+</bom>
